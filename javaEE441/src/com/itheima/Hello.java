@@ -8,5 +8,7 @@ public class Hello {
         System.out.println("HelloWord3");
         System.out.println("masdsfdsf");
         System.out.println("devv");
+        System.out.println("masdsfdsf");
+        System.out.println("devv");
     }
 }
